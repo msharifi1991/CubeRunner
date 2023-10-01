@@ -1,5 +1,4 @@
 # CubeRunner
-# Unity Endless Runner Game
 
 Welcome to the Unity Endless Runner Game! This game is an endless runner where you control a character that runs through a challenging obstacle course. Your goal is to survive as long as possible and collect points along the way.
 
